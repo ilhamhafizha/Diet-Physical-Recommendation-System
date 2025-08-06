@@ -1,8 +1,8 @@
-# 🥗 Web Rekomendasi Diet dan Latihan Fisik
+# Rekomendasi Diet dan Latihan Fisik
 
 Sebuah sistem berbasis web untuk merekomendasikan makanan dan latihan fisik bagi individu dengan obesitas menggunakan kombinasi algoritma **K-Means** dan **Random Forest**.
 
-## 👨‍💻 Author
+##  Author
 
 - [Muhammad Ilham Hafizha](https://github.com/ihamhafizha)
 
