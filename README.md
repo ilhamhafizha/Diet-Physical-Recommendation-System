@@ -4,7 +4,7 @@ Sebuah sistem berbasis web untuk merekomendasikan makanan dan latihan fisik bagi
 
 ##  Author
 
-- [Muhammad Ilham Hafizha](https://github.com/ihamhafizha)
+- [Muhammad Ilham Hafizha](https://github.com/ilhamhafizha)
 
 ## 🛠️ Tech Stack
 
